@@ -4,6 +4,10 @@ import { SearchForm } from "./components/SearchForm";
 import { PriceHighlight, TransactionsContainer, TransactionsTable } from "./sytles";
 
 export function Transactions() {
+  fetch('http://localhost:3000/transactions').then(response => {
+    console.log(response)
+  })
+
   return (
     <div>
       <Header />
