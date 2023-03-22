@@ -15,6 +15,22 @@
       "category": "Lifestyle",
       "price": 50,
       "createdAt": "2023-03-21T16:10:12.026Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-22T14:43:26.599Z",
+      "id": 3
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-22T15:00:47.781Z",
+      "id": 4
     }
   ]
 }
